@@ -1,0 +1,5 @@
+-Hi, I’m Tyler Sheen
+-I’m interested in software development with a preferred focus on backend but able to do both.
+-I’m currently studying Computer Sciene at Oregon State University. Preferred learnings include client/server programming, operating systems and networks.
+-I’m looking to collaborate on any project one would need help with. Any opportunity I can take to expand my skillset will be taken.
+-How to reach me: sheen.tyler@gmail.com
